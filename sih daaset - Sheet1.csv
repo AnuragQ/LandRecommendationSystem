@@ -1,0 +1,30 @@
+Industry,Residential Area,Water Body,Roadways,Railways,Airways,Electricity,Hospital,Fire Station,Market,forrest
+Fishing Industry,0,1,1,1,1,0,1,1,1,1
+Wood Based Industry,1,1,1,0,0,1,1,0,0,0
+Tobacco Industry,0,0,1,0,0,1,0,1,1,0
+Food Processing Industry,1,1,1,1,0,0,1,0,1,0
+Chemical Industry ,0,0,1,0,0,1,0,1,1,0
+Paper Based,1,1,0,1,1,1,0,1,0,0
+Leather Industry,0,1,1,1,1,0,1,0,1,0
+Live Stock Industry ,1,1,1,1,0,1,0,1,0,1
+Rubber Industry,0,1,0,0,1,0,1,0,0,1
+Plastic Industry,0,0,0,1,0,0,0,0,1,0
+Textile Based,1,1,0,0,1,1,1,1,0,1
+Energy Industry,0,1,1,0,1,1,1,0,1,0
+Ceramic Industry,1,0,0,1,0,1,1,1,0,1
+Glass Industry,0,1,1,0,1,0,0,1,1,0
+Automotive Industry,1,1,0,1,0,0,0,0,1,0
+Electronics Industry,1,0,0,1,1,1,1,1,0,0
+Pulp and Paper Industry,1,1,0,0,0,1,0,0,0,1
+Iron and Steel Based Industry,0,0,1,1,0,0,1,0,0,0
+Shipbuilding Industry,1,0,0,0,1,1,1,0,0,0
+Education Industry,1,0,0,0,0,1,0,0,1,0
+Service,1,1,1,0,0,1,1,1,0,0
+Cement Industry,0,1,0,1,1,0,0,0,1,1
+Aluminium Industry,1,0,1,1,1,0,1,1,1,0
+Jute Industry,1,1,0,0,1,1,1,0,1,0
+Cotton Industry,1,0,1,1,1,1,0,0,0,1
+Steel Industry,1,1,0,0,1,1,0,1,0,1
+Brick Industry,1,0,0,0,0,0,0,1,0,1
+Fan Manufacturing,0,0,1,1,1,1,0,0,0,1
+Aerospace Industry,1,0,1,0,1,0,0,1,1,1
